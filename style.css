@@ -28,7 +28,7 @@ html{
 .pic{
   height: 400px;
   width: 400px;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 30px;
   border: 15px double #8bbcbbff;
 }
